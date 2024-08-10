@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manibharathi R</h1>
-<h3 align="center">A Enthusiastic AIML Developer</h3>
+<h3 align="center">A Enthusiastic AIML Developer and Data Analyst</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
